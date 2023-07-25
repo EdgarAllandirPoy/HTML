@@ -1,0 +1,102 @@
+.box {
+    background-color: rgb(23, 124, 100);
+    width: 200vh;
+    height: 15vh;
+}
+
+.box1 {
+    background-color: rgb(24, 149, 130);
+    width: 200vh;
+    height: 80vh;
+}
+
+.box2 {
+    background-color: rgb(255, 255, 255);
+    width: 200vh;
+    height: 80vh;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 45px;
+    position: absolute;
+    left: 10%;
+}
+
+.titulo1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 35px;
+    position: absolute;
+    left: 55%;
+    top: 4%;
+}
+
+.titulo2 {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 35px;
+    position: absolute;
+    left: 65%;
+    top: 4%;
+}
+
+.titulo3 {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 35px;
+    position: absolute;
+    left: 78%;
+    top: 4%;
+}
+
+.textobox {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 20px;
+    position: absolute;
+    left: 10%;
+}
+
+.formulario {
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+#dados {
+
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+
+}
+
+.rodape {
+    background-color: rgb(23, 124, 100);
+    width: 200vh;
+    height: 28vh;
+    position: absolute;
+    top: 80%;
+}
+
+.rodapetexto {
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 30px;
+    position: absolute;
+    left: 5%;
+}
+
+.rodapecaixatexto {
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 20px;
+    position: absolute;
+    left: 60%;
+    top: 10%;
+}
